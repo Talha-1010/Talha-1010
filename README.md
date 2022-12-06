@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-1010" alt="talha-1010" /></a> </p>
 
-- 🔭 I’m currently working on [NSIST](https://nsist.vercel.app/)
+- 🔭 I’m currently working on [Pickmeup.ng](https://www.pickmeup.ng/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
