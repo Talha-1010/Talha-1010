@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-1010" alt="talha-1010" /></a> </p>
 
-- 🔭 I’m currently working on [AIGames.com](https://aigames-grayhat.vercel.app/)
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 💬 Ask me about **React.js , Next.js
 
 - 📫 How to reach me **talhanasr3e@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/talha-1010/overlay/1635503218221/single-media-viewer/](https://www.linkedin.com/in/talha-1010/overlay/1635503218221/single-media-viewer/)
 
 - ⚡ Fun fact **Trying to Focus**
 
